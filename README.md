@@ -9,10 +9,6 @@
 2. **Запустите приложение**:
    ```bash
    make start
-   make bash
-   composer install
-   make migrate
-   make seed
 
 ---
 ## API Эндпоинты
