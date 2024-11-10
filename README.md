@@ -5,6 +5,7 @@
    ```bash
    git clone https://github.com/L1Sanya/user-api
    cd user-api
+   Настройте .env файл
    
 2. **Запустите приложение**:
    ```bash
